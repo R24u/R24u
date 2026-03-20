@@ -17,8 +17,8 @@ I enjoy designing test scenarios, writing unit tests, and performing API testing
                   </p>
                   
 ## Skills
-- **💡 Frontend:** Vue, Bootstrap
-- **💻 Backend & Services:** Nodejs, Express  (Auth, Firestore)
+- **💡 Frontend:** Vue, Bootstrap, Css
+- **💻 Backend & Services:** Nodejs, Express, RestAPI,  (Auth, Firestore)
 - **🧪 Testing:** JUnit Testing, Test Scenario Design, API Testing
-- **⚡Programming Languages:** C, SQL, Python, Java
+- **⚡Programming Languages:** C, SQL, Python, Java, Javescript 
 - **🛠 Tools:** Git, GitHub, VS Code, Eclipse JUnit, Postman, Katalon, Figma, MicrosoftOffice, PostgreSQL
